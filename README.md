@@ -21,3 +21,12 @@
 
 # maling facebook
 
+# git clone https://github.com/RobetX/maling
+
+# ls
+
+# cd cd maling
+
+# git pull
+
+# python maling.py
