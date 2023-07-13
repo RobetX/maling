@@ -25,7 +25,7 @@
 
 # ls
 
-# cd cd maling
+# cd maling
 
 # git pull
 
